@@ -1,1 +1,1 @@
-# DragonBallLotto
+# LightningBallLotto
