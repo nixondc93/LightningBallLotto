@@ -3,14 +3,12 @@ import { Box, Center, Heading } from '@chakra-ui/react'
 
 const Home: NextPage = () => {
   return (
-    <Box w='100%'>
-      <Box w='100%' h='400px'>
-        <Center>
-          <Heading size='2xl'>
-            Lightning Ball Lotto
+    <Box w='100%' minHeight='100vh'>
+      <Center w='100%' h='400px'>
+          <Heading as='h1' size='4xl' color={"purple.100"}>
+            Lightning Ball
           </Heading>
-        </Center>
-      </Box>
+      </Center>
     </Box>
   );
 }
