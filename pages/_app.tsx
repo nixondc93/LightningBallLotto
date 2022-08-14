@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ChakraProvider theme={theme}>
       <Head>
-        <title>Dragonball Lotto</title>
+        <title>LightningBall</title>
         <meta name="description" content="" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
